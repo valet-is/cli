@@ -1,0 +1,28 @@
+{
+  "name": "@valet-is/cli",
+  "version": "0.0.1",
+  "description": "Valet CLI",
+  "bin": {
+    "valet": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "./bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valet-is/cli.git"
+  },
+  "author": "thinkholic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valet-is/cli/issues"
+  },
+  "homepage": "https://github.com/valet-is/cli#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "update-notifier": "^5.1.0"
+  }
+}
