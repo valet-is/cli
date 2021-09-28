@@ -1,5 +1,8 @@
 # @valet-is/cli
 
+![npm](https://img.shields.io/npm/v/@valet-is/cli?style=flat-square)
+![NPM](https://img.shields.io/npm/l/@valet-is/cli?style=flat-square)
+
 ## Getting Started
 
 ### Developer Guide
