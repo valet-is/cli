@@ -1,7 +1,7 @@
 # @valet-is/cli
 
 ![npm](https://img.shields.io/npm/v/@valet-is/cli?style=flat-square)
-![NPM](https://img.shields.io/npm/l/@valet-is/cli?style=flat-square)
+![license:MIT](https://img.shields.io/npm/l/@valet-is/cli?style=flat-square)
 
 ## Getting Started
 
@@ -13,11 +13,9 @@ cd cli
 npm install
 ```
 
-#### Create a Symlink with `npm link`
+> Run `npm link` to make local development easier. It'll create a Symlink for the package path. `valet` command will be available in the command-line.
 
-Run `npm link` to make local development easier. It'll create a Symlink for the package path. `valet` command will be available in the command-line.
-
-#### Publish the package
+#### Publishing to NPM Registry
 
 ```bash
 npm login
